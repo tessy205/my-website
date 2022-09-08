@@ -1,0 +1,80 @@
+	body{margin: 0;
+		     background-color: black;
+            }
+		.navbar{
+			    padding: 14px;
+			    padding-top: 20px;
+		        font-family: sans-serif;
+		      background-color: black;}
+
+		      .navbar-toggler {background-color: white;}
+        .navbar-nav .nav-link.active:hover,.navbar-nav .nav-link.active:active, .navbar-nav .nav-link.active:focus{color:#ff8c00;} 
+		.nav-link{text-decoration: none;
+		   
+		  padding: 10px;
+		  font-size: 12px;} 
+		  .navbar-nav .nav-link.active{color: white;}
+
+		 .contactlink:hover,.contactlink:active,.contactlink:focus{color:#ff8c00;} 
+
+		   
+
+		        .container{color: white;
+		  	               font-family: sans-serif;
+		  	               padding-top: 70px;
+                       padding-left: 20px;
+                           } 
+
+          .contactlink{text-decoration: none;}     
+                           
+          h1{font-size: 50px;}  
+
+          .container{display: flex;
+                     flex-direction: row;
+                    width: 100%;}
+           input{background-color: #454545;}
+           .my-form{border-width: 200px;}
+           .myformtwo{border-width: 200px;
+                       } 
+                       .form{border-radius: 10px;
+                            }
+                       .formtwo{border-radius: 10px;}  
+
+                       .second{height: 100px;}    
+
+                       ::-webkit-input-placeholder {position: absolute;
+                                                    margin: 5px;
+                                                    font-size: 10px;
+                                                    color: white;}
+
+                          textarea{background-color: #454545;
+                                   color: white;
+                                   padding: 5px;
+                                   width: 200px;
+                                   margin: 0 10px 0 0;
+                                   height: 69px;
+                                 }   
+
+                                 .btn{background-color: white;
+                                 	margin-left: 80px;}
+
+                                 .btntwo{background-color: #454545;
+                                        color: orange;
+                                        width: 100px;
+                                         border-radius: 10px;
+                                         padding: 5px;}                       
+          .first{
+                 width: 200px;}
+
+        /* .carousel-control-next-icon{margin-left: 150px;}*/
+
+          img{border-radius: 50%;
+               padding-bottom: 30px;
+              height: 500px;
+              padding-left: 20px;
+              margin-right: 50px;
+              } 
+
+              .first{margin-left: 50px;}   
+
+                
